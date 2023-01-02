@@ -13,3 +13,6 @@ code_user_info = {
     "username":"gangjin",
     "passwd":"fanhongdamm"
 }
+
+#git账号密码
+git_code = {}
